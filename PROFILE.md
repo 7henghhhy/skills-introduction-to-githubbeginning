@@ -1,7 +1,8 @@
 ### profile
 
-This is **FIRST** try in Github.
+This is a profile that **first** written in GitHub.
 
 Lets GOOOO
 
-*2025/8/16*
+*From 2025/8/16*
+
